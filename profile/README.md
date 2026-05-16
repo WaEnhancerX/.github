@@ -10,14 +10,14 @@
 
 ---
 
-## 🌟 What is WaEnhancerX?
+## What is WaEnhancerX?
 WaEnhancerX is a community-driven, heavily optimized Xposed/LSPosed module designed to supercharge your WhatsApp experience. Built on a standalone, robust architecture, it offers seamless integration, ultimate privacy controls, extreme visual customizations, and powerful utilities.
 
 We believe in transparency and community: **Every single core feature you use right now will remain 100% free forever.** No existing tools will ever be put behind a paywall!
 
 ---
 
-## 🔥 Core Features
+## Core Features
 
 ### 🛡️ Privacy & Security
 * **Anti-Revoke:** Prevent senders from deleting messages and statuses (Delete for Everyone & Delete for Me).
@@ -43,7 +43,7 @@ We believe in transparency and community: **Every single core feature you use ri
 
 ---
 
-## 🚀 How to Get Started
+## How to Get Started
 Ready to take your messaging experience to the next level?
 
 1. **Root your device** and install the **LSPosed Framework**.
