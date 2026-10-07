@@ -4,7 +4,7 @@
   <p>
     <a href="https://waenhancer.com">🌐 Official Website</a> •
     <a href="https://t.me/WaEnhancerX">💬 Telegram Community</a> •
-    <a href="https://github.com/mubashardev/WaEnhancerX/releases">📥 Download Latest Release</a>
+    <a href="https://github.com/WaEnhancerX/WaEnhancerX/releases">📥 Download Latest Release</a>
   </p>
 </div>
 
@@ -47,7 +47,7 @@ We believe in transparency and community: **Every single core feature you use ri
 Ready to take your messaging experience to the next level?
 
 1. **Root your device** and install the **LSPosed Framework**.
-2. Download the latest `WaEnhancerX` APK from our [Official Repository](https://github.com/mubashardev/WaEnhancerX).
+2. Download the latest `WaEnhancerX` APK from our [Official Repository](https://github.com/WaEnhancerX/WaEnhancerX).
 3. Enable the module in LSPosed and Force Stop WhatsApp.
 4. Open the app and enjoy the magic! ✨
 
